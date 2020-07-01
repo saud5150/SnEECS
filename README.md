@@ -1,4 +1,4 @@
-# SnEECS
+# SnEECS!
 Simplest notion of python snake game
 ## Implementions
 Designed in two most popular libraries
